@@ -30,7 +30,7 @@ export default function App() {
       <Footer />
     </main>
       ) : (
-        <Loader fullscreen={true} color={"#00FF41"} />
+        <Loader fullscreen={true} color={"#00FF41"} colSize={16} />
       )}
       </>
   );
