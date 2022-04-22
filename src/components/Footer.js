@@ -7,12 +7,14 @@ export default function Footer() {
             <div className="container mx-auto flex flex-wrap p-10 flex-col md:flex-row items-center justify-center">
             <a
                 href="https://www.linkedin.com/in/matt-schwarz/"
-                target="_blank">
+                target="_blank"
+                rel="noopener noreferrer">
                 <FaLinkedin className="text-islamic-green text-4xl mr-5" />
             </a>
             <a
                 href="https://github.com/mjschwarz"
-                target="_blank">
+                target="_blank"
+                rel="noopener noreferrer">
                 <FaGithubSquare className="text-islamic-green text-4xl" />
             </a>
             </div>
