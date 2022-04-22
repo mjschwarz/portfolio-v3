@@ -15,7 +15,7 @@ export default function Navbar() {
           <a href="#experiences" className="mr-5 hover:text-malachite inline-flex">
             <p className="text-malachite"> 
               01.
-            </p>&nbsp;Work Experience
+            </p>&nbsp;Experience
           </a>
           <a href="#projects" className="mr-5 hover:text-malachite inline-flex">
             <p className="text-malachite"> 
