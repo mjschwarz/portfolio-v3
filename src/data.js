@@ -31,8 +31,8 @@ export const projects = [
     { 
       company: "Ricoh",
       name: "Software Engineer Intern",
-      bullet1: "Worked with a team of eight engineers to create customized printer features for businesses.",
-      bullet2: "Automated testing of features to support continuous integration and continuous delivery.",
+      bullet1: "Incoming software engineer intern.",
+      bullet2: "",
       bullet3: "",
       bullet4: "",
       image: "ricoh.png",

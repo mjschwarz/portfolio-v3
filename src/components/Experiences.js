@@ -1,5 +1,5 @@
 import React from "react";
-import { TerminalIcon, UsersIcon, ChevronRight } from "@heroicons/react/solid";
+import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
 import { experiences } from "../data";
 
 export default function Experiences() {
