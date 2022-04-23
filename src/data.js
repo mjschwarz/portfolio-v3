@@ -31,13 +31,19 @@ export const projects = [
     { 
       company: "Ricoh",
       name: "Software Engineer Intern",
-      quote: "Worked as a software engineer.",
+      bullet1: "Worked with a team of eight engineers to create customized printer features for businesses.",
+      bullet2: "Automated testing of features to support continuous integration and continuous delivery.",
+      bullet3: "",
+      bullet4: "",
       image: "ricoh.png",
     }, 
     { 
       company: "Active Galactic Nuclei",
       name: "Research Assistant",
-      quote: "Researched black holes and quasars.",
+      bullet1: "Researched super-massive black hole phenomena.",
+      bullet2: "Developed programs to analyze spectral data sets from quasar observations.",
+      bullet3: "",
+      bullet4: "",
       image: "agn.jpeg",
       }, 
   ];
