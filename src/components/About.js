@@ -15,7 +15,7 @@ export default function About() {
           <h2 className="text-white">Computer Science @ Vanderbilt</h2>
           <br />
           <p className="mb-8 leading-relaxed">
-            I'm a sophomore computer science student at Vanderbilt University. 
+            I'm a junior computer science student at Vanderbilt University. 
             Currently, I'm focused on honing my software engineering skills and building cool projects! 
             Some of my favorite projects include making games with Python and experimenting with AI algoritms.
           </p>

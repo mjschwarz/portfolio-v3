@@ -19,7 +19,7 @@ export default function Projects() {
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
-          {projects.map((project) => (
+          {projects.map((project) => ( // see JSON formatted list of projects in "data.js" file
             <a
               href={project.link}
               target="_blank"

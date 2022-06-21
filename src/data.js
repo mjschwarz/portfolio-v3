@@ -29,7 +29,7 @@ export const projects = [
 
   export const experiences = [
     { 
-      company: "Ricoh",
+      company: "Ricoh USA",
       name: "Software Engineer Intern",
       bullet1: "Incoming software engineer intern.",
       bullet2: "",
