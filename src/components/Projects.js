@@ -14,9 +14,6 @@ export default function Projects() {
               02.
             </p>&nbsp;Projects
           </h1>
-          <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Check out some of the projects I've built!
-          </p>
         </div>
         <div className="flex flex-wrap -m-4">
           {projects.map((project) => ( // see JSON formatted list of projects in "data.js" file
