@@ -18,6 +18,13 @@ export default function Experiences() {
             <div className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
                 <span className="flex-grow flex flex-col pl-4">
+                  <div className="inline-flex items-center">
+                    <img
+                      alt="experience"
+                      src={require("../assets/" + experience.image)}
+                      className="w-1/4 rounded-full flex-shrink-0 object-cover object-center"
+                    />
+                  </div>
                   <span className="title-font font-medium text-white">
                     {experience.name}
                   </span>
@@ -44,13 +51,6 @@ export default function Experiences() {
                   <p className="leading-relaxed mb-6">{experience.bullet4}</p> 
                   : <></>
                 }
-                <div className="inline-flex items-center">
-                  <img
-                    alt="experience"
-                    src={require("../assets/" + experience.image)}
-                    className="w-1/4 rounded-full flex-shrink-0 object-cover object-center"
-                  />
-                </div>
               </div>
             </div>
           ))}
