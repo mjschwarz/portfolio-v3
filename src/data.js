@@ -31,7 +31,7 @@ export const projects = [
     { 
       company: "Walmart Global Technology",
       name: "Software Engineer Intern",
-      bullet1: "",
+      bullet1: "Incoming software engineer intern",
       bullet2: "",
       bullet3: "",
       bullet4: "",
