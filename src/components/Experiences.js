@@ -17,6 +17,14 @@ export default function Experiences() {
           {experiences.map((experience) => ( // see JSON formatted list of experiences in "data.js" file
             <div className="p-4 md:w-1/2 w-full">
               <div className="h-full bg-gray-800 bg-opacity-40 p-8 rounded">
+                <span className="flex-grow flex flex-col pl-4">
+                  <span className="title-font font-medium text-white">
+                    {experience.name}
+                  </span>
+                  <span className="text-malachite text-sm uppercase">
+                    {"@ " + experience.company}
+                  </span>
+                </span>
                 <TerminalIcon className="block w-8 text-gray-500 mb-4" />
                 {experience.bullet1 !== "" ? 
                   <p className="leading-relaxed mb-6">{experience.bullet1}</p> 
@@ -42,14 +50,6 @@ export default function Experiences() {
                     src={require("../assets/" + experience.image)}
                     className="w-1/4 rounded-full flex-shrink-0 object-cover object-center"
                   />
-                  <span className="flex-grow flex flex-col pl-4">
-                    <span className="title-font font-medium text-white">
-                      {experience.name}
-                    </span>
-                    <span className="text-malachite text-sm uppercase">
-                      {"@ " + experience.company}
-                    </span>
-                  </span>
                 </div>
               </div>
             </div>
