@@ -35,7 +35,7 @@ export const projects = [
       bullet2: "",
       bullet3: "",
       bullet4: "",
-      image: "",
+      image: "walmart.png",
     }, 
     { 
       company: "Ricoh USA",
