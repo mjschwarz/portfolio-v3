@@ -17,7 +17,7 @@ export const projects = [
     },
     {
       title: "Snake AI GUI",
-      subtitle: "Python, Pytorch, & Pygame",
+      subtitle: "Python, PyTorch, & Pygame",
       description:
         "Implemented a Q-learning deep neural network using Pytorch, training the AI to reach scores of 60+ points.",
       image: "snakeai.png",
