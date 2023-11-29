@@ -15,7 +15,7 @@ export default function About() {
           <h2 className="text-white">Computer Science @ Vanderbilt</h2>
           <br />
           <p className="mb-8 leading-relaxed">
-            Beyond software engineering, I enjoy traveling the world to SCUBA diving and try new things. 
+            Beyond software engineering, I enjoy traveling the world to SCUBA dive and try new things. 
             I also spend my time training for Olympic weightlifting and triathlons.
           </p>
           <div className="flex justify-center">
