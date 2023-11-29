@@ -15,7 +15,8 @@ export default function About() {
           <h2 className="text-white">Computer Science @ Vanderbilt</h2>
           <br />
           <p className="mb-8 leading-relaxed">
-            I'm a computer science student at Vanderbilt University.
+            Beyond software engineering, I enjoy traveling the world to SCUBA diving and try new things. 
+            I also spend my time training for Olympic weightlifting and triathlons.
           </p>
           <div className="flex justify-center">
             <a
