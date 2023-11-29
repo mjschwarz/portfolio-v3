@@ -19,13 +19,13 @@ export const projects = [
       title: "Snake AI GUI",
       subtitle: "Python, PyTorch, & Pygame",
       description:
-        "Implemented a Q-learning deep neural network using Pytorch, training the AI to reach scores of 60+ points.",
+        "Implemented a Q-learning deep neural network using PyTorch, training the AI to reach scores of 60+ points.",
       image: "snakeai.png",
       link: "https://github.com/mjschwarz/snake-ai-gui",
     },
   ];
 
-  export const skills = ["Python", "Java", "C++", "HTML/CSS", "JavaScript", "React"];
+  export const skills = ["Python", "Java", "C/C++", "HTML/CSS", "JavaScript", "React"];
 
   export const experiences = [
     { 
