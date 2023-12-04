@@ -23,6 +23,14 @@ export const projects = [
       image: "snakeai.png",
       link: "https://github.com/mjschwarz/snake-ai-gui",
     },
+    {
+      title: "Galactic Showdown (Laser Tag VR)",
+      subtitle: "C#, Unity, & Photon",
+      description:
+        "Created a laser tag VR game that supports real-time networking for up to four players",
+      image: "lasertag.png",
+      link: "https://github.com/mjschwarz/",
+    },
   ];
 
   export const skills = ["Python", "Java", "C/C++", "HTML/CSS", "JavaScript", "React"];
