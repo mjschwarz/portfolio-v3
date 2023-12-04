@@ -1,6 +1,6 @@
 export const projects = [
     {
-      title: "Cryptocurrency App",
+      title: "Crypto Craze",
       subtitle: "Python, Flask, JavaScript, & React",
       description:
         "Deployed a crypto wallet app for viewing the blockchain and account balances, initiating transactions, and mining coin.",
@@ -24,7 +24,7 @@ export const projects = [
       link: "https://github.com/mjschwarz/snake-ai-gui",
     },
     {
-      title: "Galactic Showdown (Laser Tag VR)",
+      title: "Galactic Showdown",
       subtitle: "C#, Unity, & Photon",
       description:
         "Created a laser tag VR game that supports real-time networking for up to four players",
