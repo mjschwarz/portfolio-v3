@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Created a laser tag VR game that supports real-time networking for up to four players",
       image: "lasertag.png",
-      link: "https://github.com/mjschwarz/",
+      link: "https://github.com/mjschwarz/laser-tag-vr",
     },
   ];
 
