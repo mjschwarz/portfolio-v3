@@ -33,7 +33,7 @@ export const projects = [
     },
   ];
 
-  export const skills = ["Python", "Java", "C/C++", "HTML/CSS", "JavaScript", "React"];
+  export const skills = ["Python", "Inspect AI", "C/C++", "MCP", "Java", "Kubernetes", "SQL", "Kafka","JavaScript", "React"]
 
   export const experiences = [
     { 
