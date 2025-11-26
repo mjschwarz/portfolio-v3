@@ -38,6 +38,15 @@ export const projects = [
   export const experiences = [
     { 
       company: "Walmart Global Technology",
+      name: "Software Engineer II",
+      bullet1: "Deployed a pipeline to identify items needing substitutes, avoiding over $600,000 in lost sales and saving over 2,000 weekly merchant workhours in the first 3 months after launch",
+      bullet2: "Developed key features for an industry-leading AI evaluation framework, increasing test coverage of agentic capabilities to over 80% and decreasing developer testing time from 1-2 hours per deployment to several minutes",
+      bullet3: "Spearheaded an initiative to add hundreds of business-performance metrics to Wally, an AI agent focused on streamlining merchant’s day-to-day tasks, reducing merchants’ time spend per metric from 3 minutes to 30 seconds",
+      bullet4: "",
+      image: "walmart.png",
+    },
+    { 
+      company: "Walmart Global Technology",
       name: "Software Engineer Intern",
       bullet1: "Identified a business need for more rigorous e-commerce analytics through discussions with primary stakeholders",
       bullet2: "Built a dashboard using Python and PostgreSQL, improving merchants' ability to analyze site performance",
@@ -48,7 +57,7 @@ export const projects = [
     { 
       company: "Ricoh USA",
       name: "Software Engineer Intern",
-      bullet1: "Developed programs to populate customer bundles with latest versions of software, reducing manual error",
+      bullet1: "Developed programs to populate customer bundles with the latest versions of software, reducing manual error",
       bullet2: "Streamlined project setup workflows using Groovy scripting to automate repetitive version control tasks",
       bullet3: "Created automated testing builds using Jenkins, decreasing manual testing time per release by weeks",
       bullet4: "",
