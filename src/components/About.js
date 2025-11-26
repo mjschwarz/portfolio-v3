@@ -12,11 +12,11 @@ export default function About() {
           <h1 className="sm:text-4xl text-3xl mb-4 font-bold text-malachite">
             Matt Schwarz.
           </h1>
-          <h2 className="text-white">Computer Science @ Vanderbilt</h2>
+          <h2 className="text-white">Software Engineer @ Walmart Global Tech</h2>
           <br />
           <p className="mb-8 leading-relaxed">
-            Beyond software engineering, I enjoy traveling the world to SCUBA dive and try new things. 
-            I also spend my time training for Olympic weightlifting and triathlons.
+            Beyond software engineering, I enjoy traveling the world to SCUBA dive and explore. 
+            I also spend my time racing triathlons and enjoying the outdoors.
           </p>
           <div className="flex justify-center">
             <a
