@@ -38,7 +38,7 @@ export const projects = [
   export const experiences = [
     { 
       company: "Walmart Global Technology",
-      name: "Software Engineer II Intern",
+      name: "Software Engineer Intern",
       bullet1: "Identified a business need for more rigorous e-commerce analytics through discussions with primary stakeholders",
       bullet2: "Built a dashboard using Python and PostgreSQL, improving merchants' ability to analyze site performance",
       bullet3: "Enhanced algorithms for three key performance indicators, increasing insight into actionable business opportunities",
