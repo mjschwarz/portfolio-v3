@@ -37,7 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/embed/v1/place?q=2201+Vanderbilt+Place,+Nashville,+TN,+32735&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d102833.16333950179!2d-94.32280192580794!3d36.347785264333105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c910004ed64949%3A0xda808cc82425bf02!2sBentonville%2C%20AR!5e0!3m2!1sen!2sus!4v1764117668301!5m2!1sen!2sus"
           />
           {/*
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
